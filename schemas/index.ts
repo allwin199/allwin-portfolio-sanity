@@ -1,6 +1,6 @@
-import project from "./project-schema";
 import contributions from "./contributions-schema";
+import works from "./works-schema";
 
-const schemas = [project, contributions];
+const schemas = [contributions, works];
 
 export default schemas;
