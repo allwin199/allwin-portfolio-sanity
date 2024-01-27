@@ -43,6 +43,11 @@ const works = {
             type: "url"
         },
         {
+            name: "network",
+            title: "Network",
+            type: "string"
+        },
+        {
             name: "url",
             title: "Url",
             type: "url"
@@ -60,6 +65,21 @@ const works = {
         {
             name: "content3",
             title: "Content3",
+            type: "string",
+        },
+        {
+            name: "content4",
+            title: "Content4",
+            type: "string",
+        },
+        {
+            name: "content5",
+            title: "Content5",
+            type: "string",
+        },
+        {
+            name: "content6",
+            title: "Content6",
             type: "string",
         },
         {
